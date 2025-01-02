@@ -1,0 +1,5 @@
+# #fbbe45 (yellow)
+# #EB6A81 (peach)
+# #235547 (emerald)
+# #09100E (black)
+# #190D0F (dark chocolate)
